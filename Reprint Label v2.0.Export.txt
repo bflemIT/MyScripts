@@ -1,0 +1,5 @@
+Utility for MiniSoft Reprint from Archive to the Printer selected
+line 430 - set server name
+line 443 - set the archive path
+line 444 - set the printer folder
+line 445 - set the printer folder
